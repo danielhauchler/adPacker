@@ -1,0 +1,16 @@
+{
+  "name": "adPacker",
+  "version": "1.0.0",
+  "description": "A Node, Electron, React and Webpack tool to compress and minify ad folders with a serial directory walker.",
+  "main": "index.js",
+  "repository": "git@github.com:danielhauchler/adPacker.git",
+  "author": "danielhauchler <daniel.hauchler@grey-media.de>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "private": false,
+  "devDependencies": {
+    "electron": "^1.7.9"
+  }
+}
